@@ -42,7 +42,7 @@ The repository contains the resources used throughout the training, including:
 
 ---
 
-## 📝 TOC
+## 📝 TOC & Syllabus
 
 <div align="center">
 
