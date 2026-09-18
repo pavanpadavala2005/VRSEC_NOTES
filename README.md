@@ -36,8 +36,7 @@ The repository contains the resources used throughout the training, including:
 -> 💻 Classroom coding programs  
 -> 📝 Practice questions  
 -> 📄 Day-wise training PDFs  
--> 📋 Training syllabus  
--> 📓 Jupyter Notebook resources  
+-> 📓 Google Colab Notebook resources  
 -> 🔄 Study material
 
 ---
